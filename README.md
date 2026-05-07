@@ -325,3 +325,5 @@ Built upon the concepts from [ParthJadhav/app-store-screenshots](https://github.
 [GNU Affero General Public License v3.0 or later](LICENSE) (AGPL-3.0-or-later).
 
 Storeshots is free software. If you modify and run Storeshots as a network service (SaaS), the AGPL requires you to make the source code of your modified version available to your users. Self-hosting for your own team or customers is fine — forking it to run a competing hosted service requires you to open-source your changes.
+
+My proud change!
